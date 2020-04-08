@@ -2,7 +2,7 @@
     "name": "cr7t3k/composer_quete",
     "description": "quetes",
     "require": {
-        "twig/twig": "^3.0"
+        "twig/twig": "^3.0",
         "ehime/hello-world": "1.0.5"
     },
     "autoload": {
