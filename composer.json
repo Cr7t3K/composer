@@ -3,6 +3,7 @@
     "description": "quetes",
     "require": {
         "twig/twig": "^3.0"
+        "ehime/hello-world": "1.0.5"
     },
     "autoload": {
         "psr-4": {
